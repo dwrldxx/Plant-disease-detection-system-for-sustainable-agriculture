@@ -1,0 +1,23 @@
+Plant Disease Detection System for Sustainable Agriculture
+
+Project Overview :
+This project, Plant Disease Detection System for Sustainable Agriculture, leverages cutting-edge machine learning and artificial intelligence technologies to identify diseases in plants.
+The primary goal is to aid farmers in maintaining crop health, improving agricultural sustainability, and minimizing the use of harmful pesticides by early detection of plant diseases.
+
+Internship Program :
+This project is undertaken as part of the AICTE Internship on AI: Transformative Learning, conducted under the TechSaksham initiative—a collaborative Corporate Social Responsibility (CSR) program by Microsoft and SAP.
+
+Mentor :
+P. RajaProject guidance and mentorship were provided by P. Raja, whose expertise in artificial intelligence and agriculture was invaluable in shaping the project.
+
+Features :
+Automated Disease Detection: Identifies diseases from images of plant leaves.
+Machine Learning Models: Implements convolutional neural networks (CNNs) for image classification.
+Sustainability Focus: Promotes sustainable farming by reducing the reliance on chemical treatments.
+User-Friendly Interface: Easy-to-use application for farmers and agricultural experts.
+
+Technologies Used
+Programming Language: Python
+Frameworks and Libraries: TensorFlow, Keras, OpenCV, NumPy, Matplotlib
+Tools: Jupyter Notebook, GitHub
+Dataset: Publicly available datasets of plant leaf images with labeled diseases
